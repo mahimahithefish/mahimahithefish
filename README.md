@@ -6,7 +6,7 @@ My name is Tasnim and I'm a computer science student from Dallas, TX. Here's som
 * Research Assistant at ACM Reseach [Richardson, TX Fall 2021]
 
 🔭 I’m currently working on ...
-* "DesiDash", a fullstack web application for ordering your favorite south asian cuisines (Sping boot + React)
+* Self driving neural network using: Javascript (and no other libraries)
 
 ⭐️ Interests:
 * Web and App developement
