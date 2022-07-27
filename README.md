@@ -1,4 +1,7 @@
 ### Hi there 👋
+Coming soon!
+<!--
+
 
 My name is Tasnim and I'm a computer science student from Dallas, TX. Here's some info about me!
 
@@ -14,7 +17,7 @@ My name is Tasnim and I'm a computer science student from Dallas, TX. Here's som
 
 📨 Reach me via email or LinkedIn! tasnimmmahi@gmail.com | www.linkedin.com/in/tasnim-mahi
 
-<!--
+
 **mahimahithefish/mahimahithefish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
