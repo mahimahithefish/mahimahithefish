@@ -6,7 +6,7 @@
  
  
  Hey there <img src="https://github.com/mahimahithefish/mahimahithefish/blob/main/images/wave.gif" width="20" height="20"> <br />
- I'm currently a rising sophomore Computer Science and Statistics student from Dallas, TX. Here's some info about me!
+ I'm currently a rising sophomore studying Computer Science and Statistics student. Here's some info about me!
 
 ## 📌 Pinned Repositories
 // add top 3-4 git repos here 
