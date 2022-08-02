@@ -1,7 +1,7 @@
  ![](images/520067DC-79E8-4F52-BAE4-9467DC400AFC.JPEG)
  
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tasnim-mahi/)](https://www.linkedin.com/in/tasnim-mahi/)
-[![Gmail Badge](https://img.shields.io/badge/-tasnimmmahi@gmail@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tasnimmmahi@gmail.com)](mailto:tasnimmmahi@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-tasnimmmahi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tasnimmmahi@gmail.com)](mailto:tasnimmmahi@gmail.com)
 
  
  
