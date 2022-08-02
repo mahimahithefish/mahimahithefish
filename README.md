@@ -8,6 +8,33 @@
  Hey there <img src="https://github.com/mahimahithefish/mahimahithefish/blob/main/images/wave.gif" width="20" height="20"> <br />
  I'm currently a rising sophomore Computer Science and Statistics student from Dallas, TX. Here's some info about me!
 
+## 📌 Pinned Repositories
+// add top 3-4 git repos here 
+
+
+## 🛠 Skills 
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![BigQuery](https://img.shields.io/badge/-BigQuery-black?style=flat-square&logo=BigQuery)
+
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+
+
+
+
 
 
 <!--
