@@ -4,37 +4,45 @@
 [![Gmail Badge](https://img.shields.io/badge/-tasnimmmahi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tasnimmmahi@gmail.com)](mailto:tasnimmmahi@gmail.com)
 
  
- 
- Hey there <img src="https://github.com/mahimahithefish/mahimahithefish/blob/main/images/wave.gif" width="20" height="20"> <br />
- I'm currently a rising sophomore studying Computer Science and Statistics student. Here's some info about me!
+ <img src="https://github.com/mahimahithefish/mahimahithefish/blob/main/images/wave.gif" width="20" height="20">, I am a second-year computer science student at The University of Texas at Dallas. Here is some info about me!
+
+## ⭐️ Work Experience 
+* Research Assistant at ACM Reseach [Richardson, TX Fall 2021]
+
+
 
 ## 📌 Pinned Repositories
 // add top 3-4 git repos here 
 
 
 ## 🛠 Skills 
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C++&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=Spring&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Express.js-informational?style=flat&logo=Express.js&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Bigquery-informational?style=flat&logo=Bigquery&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
 
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![BigQuery](https://img.shields.io/badge/-BigQuery-black?style=flat-square&logo=BigQuery)
-
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+## 🏫 Coursework 
+![](https://img.shields.io/badge/-Data%20Structures%20and%20Algorithms-blue)
+![](https://img.shields.io/badge/-Unix%20Systems-blue)
+![](https://img.shields.io/badge/-Computer%20Architecture-blue)
+![](https://img.shields.io/badge/-Discrete%20Math-blue)
 
 
 
-
-
+### 🔗 Links
+[My resume](Overleaf link)
 
 
 <!--
@@ -46,4 +54,7 @@ Here are some ideas to get you started:
 - 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![profile views counter](https://komarev.com/ghpvc/?username=mahimahithefish&label=visitors)
+
 -->
