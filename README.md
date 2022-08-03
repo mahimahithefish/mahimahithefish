@@ -2,17 +2,12 @@
  
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tasnim-mahi/)](https://www.linkedin.com/in/tasnim-mahi/)
 [![Gmail Badge](https://img.shields.io/badge/-tasnimmmahi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tasnimmmahi@gmail.com)](mailto:tasnimmmahi@gmail.com)
-
+![](https://img.shields.io/badge/-My%20Resume-ff6964) <- under construction
  
  <img src="https://github.com/mahimahithefish/mahimahithefish/blob/main/images/wave.gif" width="20" height="20">, I am a second-year computer science student at The University of Texas at Dallas. Here is some info about me!
 
 ## ⭐️ Work Experience 
 * Research Assistant at ACM Reseach [Richardson, TX Fall 2021]
-
-
-
-## 📌 Pinned Repositories
-// add top 3-4 git repos here 
 
 
 ## 🛠 Skills 
@@ -38,11 +33,6 @@
 ![](https://img.shields.io/badge/-Unix%20Systems-blue)
 ![](https://img.shields.io/badge/-Computer%20Architecture-blue)
 ![](https://img.shields.io/badge/-Discrete%20Math-blue)
-
-
-
-### 🔗 Links
-[My resume](Overleaf link)
 
 
 <!--
