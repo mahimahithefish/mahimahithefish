@@ -7,9 +7,7 @@
  
  <img src="https://github.com/mahimahithefish/mahimahithefish/blob/main/images/wave.gif" width="20" height="20">, I am a second-year computer science student at The University of Texas at Dallas. Here is some info about me!
 
- <p align="center">
-  <img width="100" height="100" src="https://github.com/mahimahithefish/mahimahithefish/blob/main/images/bubble-gum-workflow.gif">
-</p> 
+
 
 ## ⭐️ Work Experience 
 * Research Assistant at ACM Reseach [Richardson, TX Fall 2021]
@@ -49,6 +47,9 @@ Here are some ideas to get you started:
 - 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+ <p align="center">
+  <img width="100" height="100" src="https://github.com/mahimahithefish/mahimahithefish/blob/main/images/bubble-gum-workflow.gif">
+</p> 
 ![profile views counter](https://komarev.com/ghpvc/?username=mahimahithefish&label=visitors)
 
 -->
