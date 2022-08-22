@@ -3,7 +3,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tasnim-mahi/)](https://www.linkedin.com/in/tasnim-mahi/)
 [![Gmail Badge](https://img.shields.io/badge/-tasnimmmahi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tasnimmmahi@gmail.com)](mailto:tasnimmmahi@gmail.com)
-![](https://img.shields.io/badge/-My%20Resume-ff6964) <- under construction
  
  <img src="https://github.com/mahimahithefish/mahimahithefish/blob/main/images/wave.gif" width="20" height="20">, I am a second-year computer science student at The University of Texas at Dallas. Here is some info about me!
 
@@ -37,7 +36,7 @@
 ![](https://img.shields.io/badge/-Computer%20Architecture-blue)
 ![](https://img.shields.io/badge/-Discrete%20Math-blue)
 
-
+([Resume](https://drive.google.com/file/d/1l4yK5GgxixdemIMXSPxMweFSscG5jA_y/view?usp=sharing))
 <!--
 **mahimahithefish/mahimahithefish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
