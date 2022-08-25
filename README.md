@@ -36,7 +36,6 @@
 ![](https://img.shields.io/badge/-Computer%20Architecture-blue)
 ![](https://img.shields.io/badge/-Discrete%20Math-blue)
 
-([Resume](https://drive.google.com/file/d/1l4yK5GgxixdemIMXSPxMweFSscG5jA_y/view?usp=sharing))
 <!--
 **mahimahithefish/mahimahithefish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
