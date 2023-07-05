@@ -1,5 +1,5 @@
-## hey there i am tasnim :)
-currently a junior studying cs @ utd, summer '23 swe intern @ citi bank 
+## hey there :)
+i am currently a junior studying cs @ utd, summer '23 swe intern @ citi bank 
 
 ## more info
 **experience:** acm research assistant f'21
