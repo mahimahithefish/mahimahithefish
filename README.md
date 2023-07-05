@@ -1,17 +1,21 @@
- ![](images/520067DC-79E8-4F52-BAE4-9467DC400AFC.JPEG)
- 
+## hey there i am tasnim :)
+currently a junior studying cs @ utd, summer '23 swe intern @ citi bank 
 
-[![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tasnim-mahi/)](https://www.linkedin.com/in/tasnim-mahi/)
-[![Gmail Badge](https://img.shields.io/badge/-tasnimmmahi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tasnimmmahi@gmail.com)](mailto:tasnimmmahi@gmail.com)
- 
- <img src="https://github.com/mahimahithefish/mahimahithefish/blob/main/images/wave.gif" width="20" height="20">, I am a second-year computer science student at The University of Texas at Dallas. Here is some info about me!
+## more info
+**experience:** acm research assistant f'21
 
+**courses:** machine learning, data structures and algo, unix systems
 
+**interests:** data science/ml, blockchain, tech in finance 
 
-## ⭐️ Work Experience 
-* Research Assistant at ACM Reseach [Richardson, TX Fall 2021]
+**upcoming:** blockchain security research
 
+## links
+[linkedin](www.linkedin.com/in/tmahi) 
 
+<!--
+<img src="https://github.com/mahimahithefish/mahimahithefish/blob/main/images/wave.gif" width="40" height="40">
+![](images/520067DC-79E8-4F52-BAE4-9467DC400AFC.JPEG)
 ## 🛠 Skills 
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
@@ -36,7 +40,9 @@
 ![](https://img.shields.io/badge/-Computer%20Architecture-blue)
 ![](https://img.shields.io/badge/-Discrete%20Math-blue)
 
-<!--
+[![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tasnim-mahi/)](https://www.linkedin.com/in/tasnim-mahi/)
+[![Gmail Badge](https://img.shields.io/badge/-tasnimmmahi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tasnimmmahi@gmail.com)](mailto:tasnimmmahi@gmail.com)
+
 **mahimahithefish/mahimahithefish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
