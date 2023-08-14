@@ -11,8 +11,7 @@ i am currently a junior studying cs @ utd, summer '23 swe intern @ citi bank
 **upcoming:** blockchain security research
 
 ## links
-[linkedin](https://www.linkedin.com/in/tmahi)
-
+[linkedin](https://www.linkedin.com/in/tmahi) | [resume](https://drive.google.com/file/d/1EEoxqCl99AzDckaWRywKKrpgrnLuUdHw/view?usp=sharing)
 <!--
 <img src="https://github.com/mahimahithefish/mahimahithefish/blob/main/images/wave.gif" width="40" height="40">
 ![](images/520067DC-79E8-4F52-BAE4-9467DC400AFC.JPEG)
