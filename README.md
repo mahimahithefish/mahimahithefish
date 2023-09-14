@@ -8,7 +8,7 @@ i am currently a junior studying cs @ utd, summer '23 swe intern @ citi bank
 
 **interests:** data science/ml, blockchain, tech in finance 
 
-**upcoming:** blockchain security research
+**upcoming:** ...currently brewing
 
 ## links
 [linkedin](https://www.linkedin.com/in/tmahi) | [resume](https://drive.google.com/file/d/1EEoxqCl99AzDckaWRywKKrpgrnLuUdHw/view?usp=sharing)
