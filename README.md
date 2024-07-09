@@ -1,6 +1,7 @@
 ## Hi! 👋
 
-I'm currently a senior studying Computer Science at UTD and a Summer '24 SWE intern at Citi Bank.
+I'm currently a senior studying Computer Science at UTD and a Summer '24 SWE intern at Citi Bank.  
+Here are some things that I have learned and worked on over the years!
 
 ### 👩🏽‍💻 Experience:
 - **Returning SWE Intern at Citi**, Irving, TX - Summer '24
