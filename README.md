@@ -61,6 +61,7 @@ Here are some things that I have learned and worked on over the years!
 ![GitHub](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
 ![PyTorch](https://img.shields.io/badge/Code-PyTorch-informational?style=flat&logo=PyTorch&logoColor=white&color=4AB197)
 ![NLP](https://img.shields.io/badge/Code-NLP-informational?style=flat&logo=AI&logoColor=white&color=4AB197)
+![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon%20AWS&logoColor=white&color=4AB197)
 
 ---
 
