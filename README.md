@@ -1,16 +1,15 @@
 ## Hi! 👋
 
-I'm currently a senior studying Computer Science at UTD and a returning summer '24 SWE intern at Citi Bank.  
+I'm currently a Software Engineer at Citi Bank. I work in the chatbot team for Citi Retail Services. Helping customers get help related to their banking everyday! 
+
 Here are some things that I have learned and worked on over the years!
 
 ### 👩🏽‍💻 Experience:
-- **Returning SWE Intern at Citi**, Irving, TX - Summer '24
-- **SWE Intern at Citi**, Irving, TX - Summer '23
+- **SWE at Citi**, Irving, TX - Summer '25
+- **SWE Intern at Citi**, Irving, TX - Summer '24
+- **Data science Intern at Citi**, Irving, TX - Summer '23
 - **SWE at UTD FinTech**, Richardson, TX - Fall '22
 - **UTD ACM Research Assistant**, Richardson, TX - Fall '21
-
-### ☕️ Upcoming:
-...currently learning AWS tools!
 
 <table style="width:100%">
   <tr>
@@ -40,7 +39,6 @@ Here are some things that I have learned and worked on over the years!
 
 ## 🌐 Links
 - [LinkedIn](https://www.linkedin.com/in/tmahi)
-- [Resume](https://drive.google.com/file/d/1XFed2dNNq_wGCZVGfW-60htm3EEcYpP1/view?usp=sharing)
 
 ---
 
