@@ -22,7 +22,7 @@ Checkout some of the projects that I have worked on over the years!
 ---
 
 ## 🎓 Education
-**B.S. Computer Science** (Minor: Statistics) — UT Dallas | Class of 2024
+**B.S. Computer Science**  — UT Dallas | Class of 2024
 
 ---
 
