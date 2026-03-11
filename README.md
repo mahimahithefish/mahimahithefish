@@ -2,7 +2,6 @@
 
 I'm currently a Software Engineer at Citi Bank. I work in the chatbot team for Citi Retail Services. Helping more than 30M+ customers get help related to their banking everyday! 
 
-Here are some things that I have learned and worked on over the years!
 
 ### 👩🏽‍💻 Experience:
 - **SWE at Citi**, Irving, TX - Summer '25
