@@ -1,6 +1,6 @@
 ## Hi! 👋
 
-I'm currently a Software Engineer at Citi Bank. I work in the chatbot team for Citi Retail Services. Helping customers get help related to their banking everyday! 
+I'm currently a Software Engineer at Citi Bank. I work in the chatbot team for Citi Retail Services. Helping more than 30M+ customers get help related to their banking everyday! 
 
 Here are some things that I have learned and worked on over the years!
 
@@ -10,31 +10,6 @@ Here are some things that I have learned and worked on over the years!
 - **Data science Intern at Citi**, Irving, TX - Summer '23
 - **SWE at UTD FinTech**, Richardson, TX - Fall '22
 - **UTD ACM Research Assistant**, Richardson, TX - Fall '21
-
-<table style="width:100%">
-  <tr>
-    <td style="text-align:center; vertical-align:top;">
-      <h3>Courses 📚</h3>
-      <ul style="list-style-type:none; padding:0;">
-        <li>Machine Learning</li>
-        <li>Artificial Intelligence</li>
-        <li>Advanced Data Structures and Algorithms</li>
-        <li>Database Systems</li>
-        <li>Unix Systems</li>
-      </ul>
-    </td>
-    <td style="text-align:center; vertical-align:top;">
-      <h3>Interests 🤠</h3>
-      <ul style="list-style-type:none; padding:0;">
-        <li>ML/AI</li>
-       <li>NLP</li>
-        <li>Data Science</li>
-        <li>Full Stack Development</li>
-       <li>Blockchain development</li>
-      </ul>
-    </td>
-  </tr>
-</table>
 
 
 ## 🌐 Links
